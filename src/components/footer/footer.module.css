@@ -1,0 +1,18 @@
+.footer {
+    padding-top: 15px;
+    height: 60px;
+    width: 100%;
+    background-color: #B1A296;
+}
+.footer__inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.repo {
+    height: 30px;
+}
+.git_link {
+    display: block;
+    height: 100%;
+}

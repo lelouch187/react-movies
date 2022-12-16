@@ -1,0 +1,9 @@
+.filter {
+    text-align: center;
+    color: azure;
+    margin-top: 20px;
+    font-size: 20px;
+}
+label {
+    margin-right: 30px;
+}
